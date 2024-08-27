@@ -1,3 +1,5 @@
+![Project preview](https://github.com/vanshilJoshi/Vanshil-Portfolio/blob/main/public/project-preview.png?raw=true)
+
 # Personal Portfolio
 <a href="https://vanshil-portfoliocom-vanshiljoshis-projects.vercel.app/">Portfolio</a> : A glimpse into a web development expertise of a fictional character. Explore a selection of interactive and responsive websites, crafted with the latest technologies such as ReactJS, Vanilla JavaScript, RESTful API, CSS, SASS, SCSS, Tailwind, and HTML. Showcasing their skills and experience in designing and developing top-notch web solutions.
 
